@@ -1,7 +1,7 @@
 # water-catchers
 A step by step for making water collection sheets 
 
-# Materials required for 6x6 sheet 
+# Materials required
 
 - (LiCl) Lithium Chloride Powder [amazon link](https://www.amazon.com/dp/B08357V5BB?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - (HPC*) Hydroxypropyl Methylcellulose - Methocel® F50 [amazon link](https://www.amazon.com/dp/B00GFRTCYW?psc=1&ref=ppx_yo2ov_dt_b_product_details)
