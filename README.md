@@ -54,16 +54,15 @@ the methyl group, respectively28. The spectrum of SHPF (red curve)
 contains the combination of all characteristic peaks of KGM and
 HPC, confirming their co-existence in the SHPF network.
 
-Experiment #1
+# Experiment #1
 
-Create Solution A:
+### Create Solution A:
+- 10 mL (HPC)
+- 0.5 grams (LiCl)
 
-10 mL (HPC)
-0.5 grams (LiCl)
-
-Add in .44 KG KGM
-
-Vortex for 10 mins
-Let sit for 15 mins in petri dish
-Fridge for 3 hours
-DryIce for 12 hours
+### Main
+- Add in .44 KG KGM to 10mL of Solution A
+- Vortex for 10 mins
+- Let sit for 15 mins in petri dish
+- Fridge for 3 hours
+- DryIce for 12 hours
