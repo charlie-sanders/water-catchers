@@ -1,4 +1,4 @@
-# water-collectors
+# water-catchers
 A step by step for making water collection sheets 
 
 # Materials required for 6x6 sheet 
